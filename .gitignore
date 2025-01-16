@@ -163,3 +163,4 @@ keys.py
 garmin.db
 testdb.db
 static/user_maps/
+.DS_Store
